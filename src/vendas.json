@@ -1,0 +1,12 @@
+{
+  "vendas": [
+    {
+      "produto": { "id": 1, "nome": "TV Samsung 4K", "valor": 199900 },
+      "quantidade": 5
+    },
+    {
+      "produto": { "id": 4, "nome": "Teclado Keychron K8", "valor": 12990 },
+      "quantidade": 2
+    }
+  ]
+}
